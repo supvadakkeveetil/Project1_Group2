@@ -23,11 +23,11 @@ Converted our data from Excel and CSV files into Pandas Data Frames using the pa
 #### Analysis Report - 
 ### Links and information to the files
 1. Data sets Folder - [
-](https://github.com/supvadakkeveetil/Project1_Group2/tree/main/data)
+(https://github.com/supvadakkeveetil/Project1_Group2/tree/main/data)](https://github.com/supvadakkeveetil/Project1_Group2/tree/main/data)
 2. Data Cleaning Jupyter Notebook - [
-](https://github.com/supvadakkeveetil/Project1_Group2/blob/main/DataExp_Cleaning_P1G2.ipynb)
-3. Data Visualization Jupyter Notebook - [
-](https://github.com/supvadakkeveetil/Project1_Group2/blob/main/Visualization_P1G2.ipynb)
+(https://github.com/supvadakkeveetil/Project1_Group2/blob/main/DataExp_Cleaning_P1G2.ipynb)](https://github.com/supvadakkeveetil/Project1_Group2/blob/main/DataExp_Cleaning_P1G2.ipynb)
+3. Data Visualization Jupyter Notebook - 
+[(https://github.com/supvadakkeveetil/Project1_Group2/blob/main/Visualization_P1G2.ipynb)](https://github.com/supvadakkeveetil/Project1_Group2/blob/main/Visualization_P1G2.ipynb)
 4. Output Visualizations Folder-  [https://github.com/supvadakkeveetil/Project1_Group2/tree/main/output_data](https://github.com/supvadakkeveetil/Project1_Group2/tree/main/output_data)
 5. Presentation
 6. Exploratory Data Analysis Report
