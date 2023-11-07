@@ -1,7 +1,7 @@
 # Project1_Group2
 ## Exploratory Data Analysis Report 
 Detailed report for analysis can be found under the link 
-(https://github.com/supvadakkeveetil/Project1_Group2/blob/main/EDA_Carbon_Emissions_Report.docx)](https://github.com/supvadakkeveetil/Project1_Group2/blob/main/EDA_Carbon_Emissions_Report.docx)
+(https://github.com/supvadakkeveetil/Project1_Group2/blob/main/EDA_Carbon_Emissions_Report.docx)
 
 ### Project Title: Carbon Emissions across America: Unveiling Regional Disparities, Key Contributors
 #### Introduction
@@ -23,7 +23,7 @@ Converted our data from Excel and CSV files into Pandas Data Frames using the pa
 •	Quality checks on the data – looked to see the final structure of the cleaned-up data frame and made sure that the information and format is consistent across the Data Frames used for our analysis
 5.	Data Visualizations – Bar charts and Plots for showing the Trends across the years for different states, sectors.
 #### Data Analysis – Visualizing datasets, plotting, and finding answers to the research questions (Jupyter Notebook - Visualization_P1G2.ipynb) https://github.com/supvadakkeveetil/Project1_Group2/blob/main/Visualization_P1G2.ipynb
-#### Analysis Report - (https://github.com/supvadakkeveetil/Project1_Group2/blob/main/EDA_Carbon_Emissions_Report.docx)](https://github.com/supvadakkeveetil/Project1_Group2/blob/main/EDA_Carbon_Emissions_Report.docx)
+#### Analysis Report - (https://github.com/supvadakkeveetil/Project1_Group2/blob/main/EDA_Carbon_Emissions_Report.docx)]
 
 ### Links and information to the files
 1. Data sets Folder - [
