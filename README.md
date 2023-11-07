@@ -1,5 +1,8 @@
 # Project1_Group2
-## Exploratory Data Analysis Report (Detailed Report in the document - Link: 
+## Exploratory Data Analysis Report 
+Detailed report for analysis can be found under the link 
+(https://github.com/supvadakkeveetil/Project1_Group2/blob/main/EDA_Carbon_Emissions_Report.docx)](https://github.com/supvadakkeveetil/Project1_Group2/blob/main/EDA_Carbon_Emissions_Report.docx)
+
 ### Project Title: Carbon Emissions across America: Unveiling Regional Disparities, Key Contributors
 #### Introduction
 This report presents a Comprehensive Analysis of CO2 Emissions in the United States, focusing on trends across various sectors and individual states. The objective is to understand the patterns, variations, and potential impacts of CO2 emissions
@@ -20,7 +23,8 @@ Converted our data from Excel and CSV files into Pandas Data Frames using the pa
 •	Quality checks on the data – looked to see the final structure of the cleaned-up data frame and made sure that the information and format is consistent across the Data Frames used for our analysis
 5.	Data Visualizations – Bar charts and Plots for showing the Trends across the years for different states, sectors.
 #### Data Analysis – Visualizing datasets, plotting, and finding answers to the research questions (Jupyter Notebook - Visualization_P1G2.ipynb) https://github.com/supvadakkeveetil/Project1_Group2/blob/main/Visualization_P1G2.ipynb
-#### Analysis Report - 
+#### Analysis Report - (https://github.com/supvadakkeveetil/Project1_Group2/blob/main/EDA_Carbon_Emissions_Report.docx)](https://github.com/supvadakkeveetil/Project1_Group2/blob/main/EDA_Carbon_Emissions_Report.docx)
+
 ### Links and information to the files
 1. Data sets Folder - [
 (https://github.com/supvadakkeveetil/Project1_Group2/tree/main/data)](https://github.com/supvadakkeveetil/Project1_Group2/tree/main/data)
@@ -29,9 +33,10 @@ Converted our data from Excel and CSV files into Pandas Data Frames using the pa
 3. Data Visualization Jupyter Notebook - 
 [(https://github.com/supvadakkeveetil/Project1_Group2/blob/main/Visualization_P1G2.ipynb)](https://github.com/supvadakkeveetil/Project1_Group2/blob/main/Visualization_P1G2.ipynb)
 4. Output Visualizations Folder-  [https://github.com/supvadakkeveetil/Project1_Group2/tree/main/output_data](https://github.com/supvadakkeveetil/Project1_Group2/tree/main/output_data)
-5. Presentation
-6. Exploratory Data Analysis Report
-
+5. Presentation - [
+(https://github.com/supvadakkeveetil/Project1_Group2/blob/main/Project1Group2_Presentation.pptx)](https://github.com/supvadakkeveetil/Project1_Group2/blob/main/Project1Group2_Presentation.pptx)
+6. Exploratory Data Analysis Report - [
+(https://github.com/supvadakkeveetil/Project1_Group2/blob/main/EDA_Carbon_Emissions_Report.docx)](https://github.com/supvadakkeveetil/Project1_Group2/blob/main/EDA_Carbon_Emissions_Report.docx)
 ### References
 1.	https://www.eia.gov/environment/emissions/state/
 2.	https://cfpub.epa.gov/ghgdata/inventoryexplorer/#allsectors/allsectors/allgas/gas/all
